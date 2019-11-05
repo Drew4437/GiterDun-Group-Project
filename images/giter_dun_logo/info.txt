@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Baloo-Regular
+font link: https://fonts.google.com/specimen/Baloo
+font author: Ek Type
+font author site: https://ektype.in/
+Slogan Font: Questrial-Regular.otf
+
+icon designer: Christopher Holm-Hansen
+icon designer link: /ChrisHolm
+        
+{"bg-gradient-0":"#F05000","bg-gradient-1":"#F7AA00","icon":"#ffffff","font":"#ffffff","slogan":"#ffffff"}
+      
